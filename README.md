@@ -1,10 +1,10 @@
 <h1>Evaluacion Final Modulo 1<h1>
 
-<p>
-Este proyecto contiene el código creado en respuesta a los ejercicios planteados en la *Evaluación Final Módulo 1* en un documento Jupyter Notebook titulado *primer_examen.ipynb* y se ha desarrollado con el uso del lenguaje de programación Python.
-<p>
 
-<h4>Propósito:<h4>
+Este proyecto contiene el código creado en respuesta a los ejercicios planteados en la *Evaluación Final Módulo 1* en un documento Jupyter Notebook titulado *primer_examen.ipynb* y se ha desarrollado con el uso del lenguaje de programación Python.
+
+
+<h2>Propósito:<h2>
 
 El propósito de la creación del código es la comprobación de la adquisición de conocimientos básicos de Python a través de un uso correcto y fluido de los siguientes conceptos:
 - Diferencias entre los distintos tipos de datos en python (**strings, listas, tuplas, sets y diccionarios**).
@@ -15,7 +15,9 @@ El propósito de la creación del código es la comprobación de la adquisición
 - Clases.
 
 
-<h4>Proyecto:
+<h2>Proyecto:<h2>
+
+![](https://github.com/elenacrami/mi_primer_repo/blob/main/logo%20tienda%20online.png)
 
 En este proyecto, he creado la clase **TiendaOnline** con los atributos *inventario*, *clientes* y* ventas_totales* y que incluye los siguientes métodos:
 
@@ -48,7 +50,8 @@ En este proyecto, he creado la clase **TiendaOnline** con los atributos *inventa
 
 **- calcular_ventas_totales**(self)
 
-<h4>Conceptos básicos:
+<h3>Conceptos básicos:<h3>
+
 
 `Estructuras de iteración`:  permiten al programa repetir una sección de código varias veces, recorriendo los elementos de la secuencia.
 
@@ -74,7 +77,7 @@ En este proyecto, he creado la clase **TiendaOnline** con los atributos *inventa
 
 `Métodos`: son las funciones que usamos para definir a cada objeto.
 
-<h6>Sintáxis:<h6>
+<h3>Sintáxis:<h3>
 
 <h6>print("mensaje")<h6>
 
@@ -92,19 +95,32 @@ En este proyecto, he creado la clase **TiendaOnline** con los atributos *inventa
 
 <h6>class TiendaOnline:<h6>
 
-<h4>Funcionalidad:<h4>
+<h3>Funcionalidad:<h3>
+
+Este código tiene una funcionalidad empresarial e-commerce, ya que está basado en un prototipo de tienda online. Además, ofrece un modelo de interacción con el cliente que maximiza la experiencia del consumidor.
+
+Permite al empresario llevar un control sobre el inventario de productos, la cartera de clientes y las ventas realizadas. Asimismo, el empresario podrá usar estos parámetros base para gestionar, modificar, añadir, eliminar datos, así como realizar operaciones.
+Para ello haremos uso de los métodos anteriormente mencionados.
 
 
-<h4>Funcionamiento:<h4>
+<h3>Ejemplos de código:<h3>
 
+![](https://github.com/elenacrami/mi_primer_repo/blob/main/vscode1.png)
 
-<h4>Instalación de Python:<h4>
+![](https://github.com/elenacrami/mi_primer_repo/blob/main/vscode2.png)
+
+![](https://github.com/elenacrami/mi_primer_repo/blob/main/vscode3.png)
+
+<h3>Instalación de Python:<h3>
+
+![](https://github.com/elenacrami/mi_primer_repo/blob/main/Python-Logo.png)
 
 1. Ve al sitio web oficial de Python: https://www.python.org
 2. Descarga la versión más reciente de Python 3.
 3. Sigue las instrucciones de instalación en tu sistema operativo (Windows, Mac o Linux)
 
-<h4>Contacto:<h4>
+<h3>Contacto:<h3>
 
 [LinkedIn Profile](https://www.linkedin.com/in/elenacravenmiñarro)
+
 <elena.crami@gmail.com>
